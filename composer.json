@@ -38,5 +38,5 @@
   "config": {
     "sort-packages": true
   },
-  "abandoned": true
+  "abandoned": "spryker/merchant-profile-merchant-portal-gui"
 }
