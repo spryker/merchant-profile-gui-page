@@ -3,6 +3,8 @@
 
 This module provides Zed UI interface for merchant profile management for the Merchant portal.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
